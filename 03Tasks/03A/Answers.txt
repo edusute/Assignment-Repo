@@ -1,0 +1,23 @@
+Q1: How many passengers are in the dataset?
+
+A:1309
+
+Q2: What is the average (mean) age of passengers?
+
+A:29.881138
+
+Q3: What is the minimum fare paid? Maximum fare paid?
+
+A:$0, $512.3292
+
+Q4: How many people survived?
+
+A:1309
+
+Q5: What percentage of passengers survived?
+
+A: 38%
+
+Q: Which column has the most missing values?
+
+A: Body
