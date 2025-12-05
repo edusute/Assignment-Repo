@@ -12,7 +12,7 @@ A:$0, $512.3292
 
 Q4: How many people survived?
 
-A:1309
+A:500
 
 Q5: What percentage of passengers survived?
 
